@@ -23,7 +23,7 @@
 }
 
 .box1{
-    background-image: url(./Images/SEC1.jpg);
+    background-image: url(./Images/SEC1.webp);
     background-size: cover;
     background-position: center;
     opacity: 90%;
@@ -38,7 +38,7 @@
 }
 
 .box2{
-    background-image: url(./Images/SEC2.jpg);
+    background-image: url(./Images/SEC2.webp);
     background-size: cover;
     background-position: center;
     opacity: 95%;
@@ -53,7 +53,7 @@
 }
 
 .box3{
-    background-image: url(./Images/SEC4.jpg);
+    background-image: url(./Images/SEC4.webp);
     background-size: cover;
     background-position: center;
     opacity: 90%;
@@ -136,7 +136,7 @@ h1{
         width: 100%;
     }
     .box1{
-        background-image: url(./Images/SEC1.jpg);
+        background-image: url(./Images/SEC1.webp);
         background-size: cover;
         background-position: center;
         opacity: 90%;
@@ -144,7 +144,7 @@ h1{
         font-family: 'Dr Sugiyama', cursive;
     }
     .box2{
-        background-image: url(./Images/SEC2.jpg);
+        background-image: url(./Images/SEC2.webp);
         background-size: cover;
         background-position: center;
         opacity: 90%;
@@ -152,7 +152,7 @@ h1{
         font-family: 'Dr Sugiyama', cursive;;
     }
     .box3{
-        background-image: url(./Images/SEC4.jpg);
+        background-image: url(./Images/SEC4.webp);
         background-size: cover;
         background-position: center;
         opacity: 90%;

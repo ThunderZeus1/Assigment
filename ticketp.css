@@ -19,7 +19,7 @@ line-height: 160px;
 margin-left: -400px;
 color: transparent;
 -webkit-text-stroke: 1px #ffffff;
-background: url(Images/strips.png);
+background: url(Images/strips.webp);
 -webkit-background-clip: text;
 background-position: 0 0;
 animation: back 20s linear infinite;
@@ -33,7 +33,7 @@ text-align: center;
 .box{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/topbc.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/topbc.webp);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
@@ -115,7 +115,7 @@ line-height: 160px;
 margin-left: -400px;
 color: transparent;
 -webkit-text-stroke: 1px #ffffff;
-background: url(Images/strips.png);
+background: url(Images/strips.webp);
 -webkit-background-clip: text;
 background-position: 0 0;
 animation: back 20s linear infinite;
@@ -130,7 +130,7 @@ text-align: center;
 .box2{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/movie2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/movie2.webp);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
@@ -157,7 +157,7 @@ text-align: center;
 .box3{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/clocl.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/clocl.webp);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
@@ -169,7 +169,7 @@ text-align: center;
     line-height: 160px;
     color: transparent;
     -webkit-text-stroke: 1px #ffffff;
-    background: url(Images/strips.png);
+    background: url(Images/strips.webp);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
@@ -224,7 +224,7 @@ table {
     line-height: 160px;
     color: transparent;
     -webkit-text-stroke: 1px #ffffff;
-    background: url(Images/strips.png);
+    background: url(Images/strips.webp);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
@@ -243,7 +243,7 @@ table {
 .pritb{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/blehwo.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/blehwo.webp);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
@@ -285,7 +285,7 @@ table {
 }.Summarytb{
         width: 100%;
         height: 100vh;
-        background-image: linear-gradient(rgba(255, 255, 255, 0.3), transparent),url(./Images/jakajaka.jpg);
+        background-image: linear-gradient(rgba(255, 255, 255, 0.3), transparent),url(./Images/jakajaka.webp);
         background-size: cover;
         background-position: center;
         padding: 0 8%;
@@ -303,7 +303,7 @@ table {
     line-height: 160px;
     color: transparent;
     -webkit-text-stroke: 4px #ffff;
-    background: url(Images/strips.png);
+    background: url(Images/strips.webp);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;

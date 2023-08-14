@@ -9,7 +9,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #f2f2f2;
-    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/bcpay.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(Images/bcpay.webp);
     background-size: cover;
     background-position: center;
     

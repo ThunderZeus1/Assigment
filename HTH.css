@@ -10,7 +10,7 @@
     
 }
 body{
-    background-image: url(./Images/bc.jpeg);
+    background-image: url(./Images/bc.webp);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -85,28 +85,28 @@ body{
     height: 60vh;
 }
 .box1{
-    background-image: url(./Images/whales.jpg);
+    background-image: url(./Images/whales.webp);
     
 
 }
 .box2{
-    background-image: url(./Images/divingg.jpg);
+    background-image: url(./Images/divingg.webp);
 
 }
 .box3{
-    background-image: url(./Images/surfing.jpeg);
+    background-image: url(./Images/surfing.webp);
 
 }
 .box4{
-    background-image: url(./Images/moonstone.jpg);
+    background-image: url(./Images/moonstone.webp);
 
 }
 .box5{
-    background-image: url(./Images/boat.jpg);
+    background-image: url(./Images/boat.webp);
 
 }
 .box6{
-    background-image: url(./Images/stilt.jpg);
+    background-image: url(./Images/stilt.webp);
 
 }
 .box1 h1{

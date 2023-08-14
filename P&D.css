@@ -57,7 +57,7 @@
     }
 
 body{
-        background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(./Images/backpro.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.3), transparent),url(./Images/backpro.webp);
         background-size: cover;
         background-position: center;
         padding: 0 8%;

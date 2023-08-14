@@ -17,7 +17,7 @@
 }
 
 .box1{
-    background-image: url(./Images/lip.jpeg);
+    background-image: url(./Images/lip.webp);
     background-size: cover;
     background-position: center;
     opacity: 90%;
@@ -35,7 +35,7 @@
 }
 
 .box2{
-    background-image: url(./Images/ipl.jpeg);
+    background-image: url(./Images/ipl.webp);
     background-size: cover;
     background-position: center;
     opacity: 95%;
