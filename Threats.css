@@ -185,61 +185,7 @@ nav ul li a:hover::after{
         height:20vh;
         width: 100%;
     }
-    .mainbox div{
-        background-color: rgb(44, 207, 219);
-        width: 100%;
-        margin-left: 5%;
-        margin-right: 5%;
-        text-align: center;
-    }
     
-   
-    .box1 a:hover{
-        -ms-transform: scale(1.1);
-        -webkit-transform: scale(1);
-        transform: scale(1.1);
-        color: black;
-        background-color: white;
-        
-        
-    }
-    
-    
-    
-    .box2 a:hover{
-        -ms-transform: scale(1.1);
-        -webkit-transform: scale(1.1);
-        transform: scale(1.1);
-        color: black;
-        background-color: white;
-    }
-    .box1 a{
-        text-decoration: none;
-        display: inline-block;
-        color: #fff;
-        font-size: 24px;
-        border: 2px solid #fff;
-        padding: 8px 40px;
-        border-radius: 50px;
-        margin-top: 20px;
-        font-family: 'Courier New', Courier, monospace;
-        text-align: center;
-        
-      
-    }
-    
-    .box2 a{
-        text-decoration: none;
-        display: inline-block;
-        color: #fff;
-        font-size: 24px;
-        border: 2px solid #fff;
-        padding: 10px 40px;
-        border-radius: 50px;
-        margin-top: 20px;
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 30px;
-    }    
     @media screen and (max-width:650px) {
         .sec2{
             width: 100%;
