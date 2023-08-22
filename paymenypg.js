@@ -17,3 +17,11 @@ function validateAndSubmit() {
     
     document.getElementById("paymentForm").submit();
 }
+function validateCardNumber() {
+    var cardNumber = document.getElementById("card_number").value;
+    if (cardNumber.length !== 16) {
+        alert("Please enter a 16-digit card number.");
+        return false;
+    }
+    return true;
+}

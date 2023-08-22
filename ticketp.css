@@ -5,7 +5,7 @@
     font-family: 'poppins', sans-serif;
 }
 .top{
-    margin-bottom: 315px;
+    margin-bottom: 400px;
     margin-left: 250px;
     color: #ffff;
     position: absolute;
@@ -16,7 +16,7 @@
 .top h1{
 font-size: 190px;
 line-height: 160px;
-margin-left: -400px;
+margin-left: -200px;
 color: transparent;
 -webkit-text-stroke: 1px #ffffff;
 background: url(Images/strips.webp);
@@ -46,8 +46,9 @@ text-align: center;
     border-radius: 5px;
     padding: 30px;
     background-color: #ffffff;
-    margin-left: 440px;  
+    margin-left: 400px;  
     border-radius: 80px;
+   
    
 
 }
@@ -202,7 +203,7 @@ table {
   
   /* Style for table headers */
   th {
-    background-color: #ffffff;
+    background-color: #525050;
     border: 1px solid #000000;
     padding: 8px;
     text-align: left;
@@ -217,7 +218,7 @@ table {
   
   /* Alternate row background color */
   tbody tr:nth-child(even) {
-    background-color: #ffffff;
+    background-color: #494949;
   }
 
 .pritb h1{
@@ -294,7 +295,7 @@ table {
 
 }
 .summary-box{
-    color: #ffff;
+    color: #ffffff;
     position: absolute;
     bottom: 8%;
     
@@ -303,7 +304,7 @@ table {
     font-size: 190px;
     line-height: 160px;
     color: transparent;
-    -webkit-text-stroke: 4px #ffff;
+    -webkit-text-stroke: 4px #ffffff;
     background: url(Images/strips.webp);
     -webkit-background-clip: text;
     background-position: 0 0;
@@ -322,3 +323,14 @@ table {
     width: 500px;
 }
     
+.footer {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+}
+.top h2{
+    font-size: small;
+    margin-left: 100px;
+}

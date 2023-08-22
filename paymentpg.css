@@ -18,7 +18,7 @@ body{
     max-width: 400px;
         margin: 0 auto;
         padding: 20px;
-        background-color: #707070;
+        background-color: #ffffff;
         border: 1px solid #000000;
         border-radius: 50px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,7 @@ body{
 .box h1{
     margin-bottom: 20px;
         text-align: center;
-        color: #ffffff;
+        color: #00bbff;
 }
 .box h2{
     display: block;
@@ -45,7 +45,7 @@ input{
     padding: 10px;
     font-size: 16px;
     margin-bottom: 10px;
-    border: 1px solid #ddd;
+    border: 2px solid #000000;
     border-radius: 50px;
     outline: none;
 }
@@ -80,4 +80,10 @@ input{
     transform: scale(1.1);
 }
 
-
+.footer {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+}

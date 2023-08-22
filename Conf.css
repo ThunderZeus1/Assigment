@@ -115,3 +115,10 @@ body {
     -webkit-transform: scale(1);
     transform: scale(1.1);
 }
+.footer {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+}

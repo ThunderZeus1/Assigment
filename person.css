@@ -126,3 +126,12 @@
         font-size: 14px;
         margin-top: 5px;
       }
+
+
+      .footer {
+        background-color: #000000;
+        padding: 20px;
+        text-align: center;
+        font-size: 14px;
+        color: #ffffff;
+    }
